@@ -1,0 +1,22 @@
+.big {
+    width:  45vw;
+    height: 30vh;
+}
+
+.touch, .rotate {
+    width: auto;
+    height: 5vh;
+}
+
+.blank, .tick, .cross {
+    width: 28vw;
+    height: 6vh;
+}
+
+#output {
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0px;
+    width: 30em;
+    
+}

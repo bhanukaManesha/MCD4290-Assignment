@@ -1,0 +1,36 @@
+/////////////////////////////////////////////////////////////////////////////////////////
+
+			MCD 4290 ASSIGNMENT 1 - SIMON MEMORY GAME
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+We have attached two SIMON GAME FOLDERS, containing two different versions of the game;
+
+	1. Base_App 	: 	This version of the game was made only using the 
+				gamelogic.js file and does not contain all the stylings 
+				that were showed in the presentation. 
+				This however it is the working full game except the 
+				stylings.
+
+	2. Stylished_App: 	This version of the game however is a more stylish 
+				version and modification has been done to the 
+				index.html also, so that we can accommodate animate.css
+				link and also the first load event on the body tag.
+
+
+
+Thank You. We hope you liked our app and the presentation, If there are any problems, just
+drop an email to;
+	
+			mcd4290team3@gmail.com
+ 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+				     MCD 4290 TEAM 3
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+
+			
